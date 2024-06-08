@@ -3,21 +3,22 @@
  
 
 <h2>Description</h2>
-Welcome to our Diabetes Prediction Project – a initiative poised to optimize healthcare analytics. Our project encompasses a wide array of health indicators, from age and gender to critical markers like BMI, hypertension, and heart disease status. We delve into smoking history, HbA1c levels, and blood glucose data to offer a comprehensive view of patients' health profiles.
+Tourism is a vital component of the global economy, with hotels serving as key players in the hospitality sector. Understanding the dynamics of hotel bookings is crucial for various stakeholders, including hotel managers, marketers, and policymakers. In this analysis, we delve into hotel booking data to uncover trends, preferences, and patterns that can inform decision-making processes within the hospitality industry.
 
-Our goal is crystal clear: to empower healthcare professionals in identifying individuals at risk of diabetes, enabling the development of personalized treatment plans. By leveraging advanced predictive modeling techniques, we aim to proactively intervene in the progression of diabetes, ultimately contributing to better patient outcomes.
+<h2>Objective</h2>
+The primary goal of this analysis is to process and analyze hotel booking data to identify trends, booking preferences, and cancellations. By exploring various aspects such as booking patterns, customer demographics, and cancellation rates, we aim to gain insights that can help hotel managers optimize their operations, tailor their marketing strategies, and enhance customer satisfaction.
 
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python</b> 
-- <b>Jupyter Lab</b>
+- <b>PySpark</b> 
+- <b>Hadoop Distributed File System(HDFS)</b>
 
 <h2>Environments Used </h2>
 
-- <b>Mac OS, Anaconda </b> 
+- <b>Google Cloud</b> 
 
 <h2>Program walk-through:</h2>
 

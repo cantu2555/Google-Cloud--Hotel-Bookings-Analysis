@@ -23,20 +23,20 @@ The primary goal of this analysis is to process and analyze hotel booking data t
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Age Distribution: <br/>
-<img src="https://i.imgur.com/fPFH8EE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+HDFS Upload: <br/>
+<img src="https://i.imgur.com/Bq5Je1u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Gender Comparison:  <br/>
-<img src="https://i.imgur.com/wAEtJRN.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+PySpark Data Access:  <br/>
+<img src="https://i.imgur.com/V9Ku4R3.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Body Mass Index Distribution: <br/>
-<img src="https://i.imgur.com/JSCaLo5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Hotel Cancellations Top Months: <br/>
+<img src="https://i.imgur.com/w1zT0zZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Modeling:  <br/>
-<img src="https://i.imgur.com/1scAuOC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Weekend Bookings Resort vs City:  <br/>
+<img src="https://i.imgur.com//E8flBjA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
